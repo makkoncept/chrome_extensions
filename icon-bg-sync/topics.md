@@ -1,0 +1,6 @@
+- content scripts
+- background scripts
+- chrome.tabs.sendMessage api
+- chrome.session.onMessage api
+- chrome.browserAction.onClicked api
+- chrome.browserAction.setIcon api
