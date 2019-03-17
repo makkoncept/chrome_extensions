@@ -1,0 +1,25 @@
+{
+  "name": "icon-bg-sync",
+  "description": "A chrome extension which changes icon color and page background color when clicked",
+  "version": "1.0",
+  "manifest_version": 2,
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "browser_action": {
+    "name": "Click to change color",
+    "default_icon": "icons/FFFFFF.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ]
+}
