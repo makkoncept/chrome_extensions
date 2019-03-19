@@ -1,0 +1,4 @@
+- popup in extensions.
+- chrome.tabs api
+- chrome.bookmarks api
+- content security policy
