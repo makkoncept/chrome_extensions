@@ -1,0 +1,2 @@
+- incognito option of manifest
+- chrome_url_overrides option of manifest
