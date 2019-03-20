@@ -1,0 +1,3 @@
+- background script
+- chrome.tabs api
+- chrome.browserAction.setBadgeText api
