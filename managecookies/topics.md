@@ -1,0 +1,6 @@
+- background script
+- permissions option of manifest
+- chrome.browserAction api
+- chrome.cookies api
+- chrome.tabs api
+- chrome.windows.getAll api
