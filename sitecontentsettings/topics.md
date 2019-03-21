@@ -1,0 +1,3 @@
+- extension popup
+- permission option of the manifest
+- chrome.contentSettings api
